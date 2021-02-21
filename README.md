@@ -27,8 +27,6 @@
   </p>
 </p>
 
-
-
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
@@ -129,7 +127,8 @@ Distributed under the MIT License. See `LICENSE` for more information. -->
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/Scriblet/StarWars-Datable-Hooks](https://github.com/Scriblet/StarWars-Datable-Hooks)
+Project Link: [https://github.com/Scriblet/StarWars-Datable-Hooks](https://github.com/Scriblet/StarWars-Datable-Hooks)  
+Portfolio> [https://scriblet.github.io/Portfolio/](https://scriblet.github.io/Portfolio/)
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
