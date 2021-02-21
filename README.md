@@ -70,6 +70,8 @@ This project contains a table filled with data about Star Wars planets from an A
 * [Bootstrap](https://getbootstrap.com)
 * [React](https://reactjs.org)
 * [ContextAPI](https://pt-br.reactjs.org/docs/context.html)
+* [ESLint](https://eslint.org)
+* [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
 
 <!-- GETTING STARTED -->
 # Getting Started
