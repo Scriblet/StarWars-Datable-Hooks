@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/StarWars-Datable-Hooks/static/css/main.d19b74a5.chunk.css",
+    "main.js": "/StarWars-Datable-Hooks/static/js/main.62258536.chunk.js",
+    "main.js.map": "/StarWars-Datable-Hooks/static/js/main.62258536.chunk.js.map",
+    "runtime-main.js": "/StarWars-Datable-Hooks/static/js/runtime-main.0d29273f.js",
+    "runtime-main.js.map": "/StarWars-Datable-Hooks/static/js/runtime-main.0d29273f.js.map",
+    "static/css/2.ff645aaf.chunk.css": "/StarWars-Datable-Hooks/static/css/2.ff645aaf.chunk.css",
+    "static/js/2.eec92d6f.chunk.js": "/StarWars-Datable-Hooks/static/js/2.eec92d6f.chunk.js",
+    "static/js/2.eec92d6f.chunk.js.map": "/StarWars-Datable-Hooks/static/js/2.eec92d6f.chunk.js.map",
+    "index.html": "/StarWars-Datable-Hooks/index.html",
+    "precache-manifest.e4e0c3a370a7afac20fb1c4a724bb19c.js": "/StarWars-Datable-Hooks/precache-manifest.e4e0c3a370a7afac20fb1c4a724bb19c.js",
+    "service-worker.js": "/StarWars-Datable-Hooks/service-worker.js",
+    "static/css/2.ff645aaf.chunk.css.map": "/StarWars-Datable-Hooks/static/css/2.ff645aaf.chunk.css.map",
+    "static/css/main.d19b74a5.chunk.css.map": "/StarWars-Datable-Hooks/static/css/main.d19b74a5.chunk.css.map",
+    "static/js/2.eec92d6f.chunk.js.LICENSE.txt": "/StarWars-Datable-Hooks/static/js/2.eec92d6f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d29273f.js",
+    "static/css/2.ff645aaf.chunk.css",
+    "static/js/2.eec92d6f.chunk.js",
+    "static/css/main.d19b74a5.chunk.css",
+    "static/js/main.62258536.chunk.js"
+  ]
+}
