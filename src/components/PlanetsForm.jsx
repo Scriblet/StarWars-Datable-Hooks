@@ -1,5 +1,5 @@
 import React, { useContext, useState } from 'react';
-import { Form, FormCheck, Button, Card } from 'react-bootstrap';
+import { Form, FormCheck, Card } from 'react-bootstrap';
 import StarWarsContext from '../context/StarWarsContext';
 
 function PlanetsForm() {
