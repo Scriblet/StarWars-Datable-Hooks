@@ -19,7 +19,7 @@
     <a href="https://github.com/Scriblet/StarWars-Datable-Hooks"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Scriblet/StarWars-Datable-Hooks">View Demo</a>
+    <a href="https://scriblet.github.io/StarWars-Datable-Hooks/">View Demo</a>
     ·
     <a href="https://github.com/Scriblet/StarWars-Datable-Hooks/issues">Report Bug</a>
     ·
